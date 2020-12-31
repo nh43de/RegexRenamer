@@ -1,5 +1,5 @@
-# RegexReplacer
-Performs regex replacing in files with optional preview via command line
+# RegexRenamer
+Performs bulk renaming of files using regexes from the command line.
 
 ## Compiling
 
